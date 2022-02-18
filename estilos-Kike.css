@@ -1,6 +1,21 @@
-<head>
-<!-- añade el conjunto de caracteres latinos -->
-<meta charset="UTF-8">
-<title>tema3.html</title>
+body{
+color:black;
+background-color: azure;}
 
-</head>
+article{
+text-align: center; background-color: blue(44, 43, 42);
+
+
+}
+
+nav>ul>li>. resaltado{
+color:greenyellow;
+
+
+}
+
+#titulo del blog {
+text-align: center;
+font-size: 3rem;
+
+}

@@ -8,13 +8,13 @@ border-bottom-color: black;
 color: rgb(255, 255, 255);
 }
 article{
-text-align: center; background-color: blue(44, 43, 42); 
+text-align: left; background-color: blue(44, 43, 42); 
 }
 .resaltado{
 color: darkgreen;
 }
 #titulo_del_blog{
-text-align: center;    
+text-align: left;    
 font-size: 3rem;
 }
 .ilustracion{
